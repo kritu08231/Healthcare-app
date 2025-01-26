@@ -1,0 +1,10 @@
+<resources>
+    <color name="primaryColor">#BB86FC</color>
+    <color name="primaryColorDark">#121212</color>
+    <color name="accentColorDark">#03DAC6</color>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Healthcare" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+</resources>
